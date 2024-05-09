@@ -1,4 +1,4 @@
-#CSES Solutions
+# CSES Solutions
 
 These are my solutions to some of the problems on https://cses.fi/problemset/
 
